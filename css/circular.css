@@ -1,0 +1,11 @@
+.circular {
+  width: 199px;
+  height: 199px;
+  border-radius: 50%;
+  background: url('../img/me.png') no-repeat center;
+  margin: auto;
+}
+
+.circular img {
+  opacity: 0;
+}

@@ -1,0 +1,11 @@
+/* TEAM */
+Web designer: José M. Camacho
+Twitter: @josemazo
+From: Sevilla, Andalucia, Spain
+
+/* SITE */
+Last update: 2013/10/01
+Language: English
+Doctype: HTML5
+Components: Normalize.css
+Software: Sublime Text 2
